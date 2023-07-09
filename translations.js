@@ -12,7 +12,7 @@ const translations= {
 				great way to pay for something that doesn't have any intrinsic 
 				value or even exist. Tech fashionistas are jumping on the NFT 
 				bandwagon  crafting an NFT ,and spending eye-watering sums of money on crypto images. 
-				Our advice: spend the weekend `  ,
+				Our advice: spend the weekend <a class="inli" href="#" >crafting an NFT</a>,and by this time next week, you'll be a millionaire.`  ,
         productd2: `and by this time next week, you'll be a millionaire.`,
         btnAnNft: "crafting an NFT",
         btnBuy: "Buy NFTs",
@@ -32,8 +32,6 @@ const translations= {
         arabic: "Arabic", 
 
 
-
-
     },
     ar: {
         buy:"اشتري", 
@@ -45,9 +43,9 @@ const translations= {
         productTitleD: "بسعر 33 ألف دولار ، يعتبر هذا أن اف تي الحذاء الرياضي ذو قيمة جيدة للغاية!",
         productD1: `إذا كان لديك الكثير من المال وكنت غبيًا بعض الشيء ، تعد ان اف تي طريقة رائعة للدفع مقابل شيء ليس له أي قيمة جوهرية أو حتى موجود. يقفز عشاق الموضة في عالم التكنولوجيا على
         عربة ان اف تي وإنفاق مبالغ طائلة من المال على الصور المشفرة.
-          نصيحتنا: قضاء عطلة نهاية الأسبوع `  ,
-        productd2: `وبحلول هذا الوقت من الأسبوع المقبل ، ستكون مليونيرا.`,
-        btnAnNft: "صنع ان اف تي",
+           نصيحتنا: قضاء عطلة نهاية الأسبوع في <a class="inli" href="#" >صنع ان اف تي</a> وبحلول هذا الوقت من الأسبوع المقبل ، ستكون مليونيرا.`  ,
+      /*   productd2: `وبحلول هذا الوقت من الأسبوع المقبل ، ستكون مليونيرا.`, */
+       /*  btnAnNft: "صنع ان اف تي", */
         btnBuy: "اشتري ان اف تي",
         btnMoerInfo: "مزيد من المعلومات",
         sectiontwotitle :"لمتذوق التشفير الحقيقي",
