@@ -43,6 +43,10 @@ p {
 /* ----- LINKS ----- */
 .inli {
     display: inline;
+ 
+}
+.bton {
+   margin: 10px;
 }
 
 a {
